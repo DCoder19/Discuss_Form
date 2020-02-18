@@ -34,4 +34,14 @@ which is at /opt/lampp/etc/extra/
 That's it and you are Done!
 
 It also work with xampp. :)
+
+Guide followed: https://siddharthshanker.com/blog/programming/setup-laravel-development-environment-in-linux/
+
+[APACHE ROOT DIR] ==> /opt/lampp/htdocs/--
+Refer: https://www.youtube.com/watch?v=3DeJCwmlOys
+Blog post: https://siddharthshanker.com/blog/programming/setup-laravel-development-environment-in-linux/
+
+Be carefull from here !!!
+1. First install php7.2
+	
 				   
