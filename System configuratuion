@@ -5,3 +5,5 @@ Canonical, Ubuntu, 18.04 LTS, amd64 bionic image build on 2020-01-12
 Root Device Type: ebs Virtualization type: hvm
 Instance Type	    ECUs	  vCPUs	  Memory (GiB)	Instance Storage (GB)	EBS-Optimized Available	     Network Performance
 t2.micro	      Variable	  1	      1	              EBS only	                   -	                 Low to Moderate
+
+![ec2server](https://user-images.githubusercontent.com/46623556/74827539-a121b600-5333-11ea-8af0-51cc197053fc.PNG)
