@@ -1,1 +1,7 @@
-
+Main server configuration :
+The website has been deployed in an Ubuntu EC2 server in AWS(Amazon Web Services).
+Cofig:
+Canonical, Ubuntu, 18.04 LTS, amd64 bionic image build on 2020-01-12
+Root Device Type: ebs Virtualization type: hvm
+Instance Type	    ECUs	  vCPUs	  Memory (GiB)	Instance Storage (GB)	EBS-Optimized Available	     Network Performance
+t2.micro	      Variable	  1	      1	              EBS only	                   -	                 Low to Moderate
